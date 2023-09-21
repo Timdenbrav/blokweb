@@ -121,26 +121,40 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Het opstellen en indelen van de website ging goed. Het stijlen van de website ging ook goed.
+  Het menu maken is niet gelukt via de oefenopdracht op DLO.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+**Student 1:** Ik heb wat vragen over toegankelijkheid en formaat van foto's.
+**Student 2:** Ja, ik heb wel een aantal vraagjes. Maar ben ook nog niet zo ver.
+**Student 3:** Ik wil hem ff vragen om te kijken naar mijn HTML en nog een ander vraagje.
+**Student 4:** Ja ik heb ook wel paar vraagjes over mn html.
+**Student 5:** Ik ben ook nog niet heel ver maar wil wel nog wat vragen over mn html en css en de opbouw ervan.
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+Feedback FED
+
+-  De hanburgermenu button mag in javascript niet meer dan een paar regels bevatten en geen div
+-  Alle Classes veranderen in Semantische HTML elementen
+-  Lees meer linken naar Recepten pagina
+-  Linkjes koppelen aan elke menu 
+-  Outline ipv border gebruiken
+-  Pseusoclasses checken
+-  Animatie toevoegen aan sommige knoppen
+-  Form - label voor zoekbalk
+-  Button ‘zoek’ toevoegen aan rechterkant
+-  Div mag alleen voor vormgeving
+-  1 section om rode en kopjes eronder
+-  Die kopjes allemaal articles
+-  ‘Lees meer’ doorlinken naar recepten pagina
+-  2 plaatjes van website pakken en dit zelf met css in elkaar zetten
+-  Op DLO kijken voor tutorial drop down menu
 
 </details>
 
